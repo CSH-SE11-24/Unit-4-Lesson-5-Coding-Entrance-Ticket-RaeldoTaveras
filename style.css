@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: gray;
+}
+
+
+h1{
+  background-color: black;
+  text-align: center;
+  color: orange;
+}
+
+h2{
+  text-align: center;
+}
+
+
+.class{
+  background-color: black;
+  text-color: yellow;
+}
+
+
+.class{
+ width: 30%;
+}
